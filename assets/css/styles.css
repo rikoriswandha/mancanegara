@@ -116,3 +116,9 @@ label {
   background-color: #ebf2e0;
 }
 
+@media (max-width: 532px) {
+  #top-nav {
+    display: none;
+  }
+}
+
