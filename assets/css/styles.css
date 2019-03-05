@@ -176,3 +176,22 @@ label {
     display: none;
   }
 }
+
+@media (max-width: 532px) {
+  .cert-logo {
+    height: 50px;
+  }
+}
+
+.cert-logo {
+  height: 95px;
+}
+
+.airline-logo {
+  height: 50px;
+  margin: 20px 0;
+}
+
+#airline-div {
+  background-color: white;
+}
